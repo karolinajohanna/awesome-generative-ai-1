@@ -310,6 +310,7 @@ Contributions to this list are welcome. Before submitting your suggestions, plea
 - [The Generative AI Landscape](https://github.com/ai-collection/ai-collection) - A Collection of Awesome Generative AI Applications.
 - [Molecular design](https://github.com/AspirinCode/papers-for-molecular-design-using-DL) - List of molecular design using Generative AI and Deep Learning.
 - [Open LLMs](https://github.com/eugeneyan/open-llms) - A list of open LLMs available for commercial use.
+- [Generative AI](https://www.soffos.ai/) - The Soffos Generative AI platform is a revolutionary solution that empowers software developers as well as everyday users to effortlessly create AI solutions.
 
 ### Lists on ChatGPT
 
